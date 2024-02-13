@@ -1,0 +1,27 @@
+/CRUD/target/
+# Maven ve Eclipse dosyaları
+target/
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA dosyaları
+.idea/
+
+# NetBeans dosyaları
+nbproject/private/
+build/
+
+# Eclipse JDT, .apt_generated, .apt_src ve bin klasörleri
+bin/
+gen/
+out/
+*.class
+
+# Maven derleme dosyaları
+*.jar
+*.war
+*.ear
+
+# Maven ve IntelliJ IDEA dosyaları
+iml/
