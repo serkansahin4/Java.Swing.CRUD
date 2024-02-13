@@ -4,5 +4,6 @@ Teknolojiler
 Veritabanı İşlemleri => MySql, JDBC
 Backend => Java
 Frontend => Swing
-IDE => NetBeans
+SDK => Java SE(20.0.4)
+IDE => NetBeans(20)
 Dependencies => Maven
